@@ -12,7 +12,7 @@
     "install-client": "cd frontend && npm install",
     "install-server": "npm install",
     "install-all": "npm run install-server && npm run install-client",
-    "vercel-build": "npm run build"
+
   },
   "keywords": ["e-commerce", "clothing", "react", "nodejs", "express"],
   "author": "",
